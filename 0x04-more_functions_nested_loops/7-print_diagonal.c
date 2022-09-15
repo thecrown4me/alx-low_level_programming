@@ -28,7 +28,3 @@ void print_diagonal(int n)
 		}
 	}
 }
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-
